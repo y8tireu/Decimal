@@ -1,3 +1,5 @@
+# Decimals
+
 1. A fraction represents a part of a whole in the form numerator/denominator.
 2. A decimal is another way to express fractions using powers of 10.
 3. The numerator in a fraction tells how many parts are taken.
